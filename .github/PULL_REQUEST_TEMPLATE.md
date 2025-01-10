@@ -10,7 +10,7 @@ If this pull request closes an issue, please mention the issue number below
 Closes # <!-- Issue # here -->
 
 ## ✅ Description
-<!-- Add a brief description of the pr -->
+<!-- Add a brief description of the PR -->
 
 <!--
 You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax:
