@@ -1,4 +1,4 @@
-name: ✨Bug Report
+name: 🐞 Bug Report
 description: File a bug report here
 title: "[BUG]: "
 labels: ["bug, triage"]
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!!!
+        Thanks for taking the time to fill out this bug report! Before you submit, please search the existing issues to see if your bug has already been reported. If it has, please add any additional information you have to the existing issue.
 
   - type: checkboxes
     id: new-bug
@@ -24,6 +24,8 @@ body:
     attributes:
       label: Description of the bug
       description: Give me a brief description of what happened and what should have happened.
+      placeholder: |
+        Ex. When I do '...', I expect '...' to happen, but instead '...' happens. This is a problem because '...'.
     validations:
       required: true
 
@@ -46,6 +48,8 @@ body:
       label: Environment
       description: |
         Provide details about the environment in which the bug occurred. (e.g. operating system, browser, version, etc.)
+      placeholder: |
+        Ex. OS: Windows 11, Browser: Chrome.
     validations:
       required: true
 
@@ -55,6 +59,10 @@ body:
       label: Additional Information
       description: |
         Provide any additional information such as logs, screenshots, likes, scenarios in which the bug occurs so that it facilitates resolving the issue.
+      placeholder: |
+        Ex. I have attached a screenshot of the error message. I have also checked the logs and found the following error message. The bug occurs only when I do '...'.
+    validations:
+      required: false
 
   - type: input
     id: contact
