@@ -4,6 +4,13 @@ Thank you for helping keep this project secure! This document outlines the secur
 
 If you believe you have found a security vulnerability in this project that meets the [Security Definition](#security-definition), please report it to me as described in [Reporting a Vulnerability](#reporting-a-vulnerability).
 
+## Table of Contents
+- [Security Definition](#security-definition)
+- [Reporting a Vulnerability](#reporting-a-vulnerability)
+- [Responsible Disclosure](#responsible-disclosure)
+- [Security Updates](#security-updates)
+- [Acknowledgments](#acknowledgments)
+
 ## Security Definition
 
 A **security vulnerability** is defined as a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to **confidentiality, integrity, or availability**. Mitigation of these vulnerabilities typically involves coding changes but could also include specification changes or even the deprecation of functionality (e.g., removal of affected protocols or features).
@@ -27,3 +34,7 @@ I ask that you do not publicly disclose the vulnerability until it has been addr
 ## Security Updates
 
 When a security issue is addressed, I will release a new version of the project and provide details of the fix in the changelog or release notes. I recommend keeping track of new releases to ensure you are using the most secure version.
+
+## Acknowledgments
+
+I appreciate your help in keeping this project secure! Your efforts make a difference and contribute to the safety of our users and the broader community. Thank you for your contributions to security research and responsible disclosure.
