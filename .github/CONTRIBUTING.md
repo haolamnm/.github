@@ -1,3 +1,35 @@
+# Contributing Guidelines
+
+Welcome to the Contributing Guidelines! This document outlines the expectations for behavior, technical responsibilities, and other notes for contributing to the project.
+
+## Table of Contents
+- [Introduction](#introduction)
+	- [Welcome to The Contributing Guides!](#welcome-to-the-contributing-guides)
+	- [Why you should read these Guidelines?](#why-you-should-read-these-guidelines)
+	- [What I'm looking for?](#what-im-looking-for)
+	- [Contributions that I'm NOT looking for!](#contributions-that-im-not-looking-for)
+- [Ground Rules](#ground-rules)
+  - [Expectations for behavior](#expectations-for-behavior)
+  - [Technical responsibilities](#technical-responsibilities)
+  - [Other notes](#other-notes)
+- [Your First Contribution](#your-first-contribution)
+	- [Where to start?](#where-to-start)
+	- [Resources for first-timers](#resources-for-first-timers)
+- [Getting started](#getting-started)
+	- [Small fixes and Obvious changes](#small-fixes-and-obvious-changes)
+	- [Larger contributions](#larger-contributions)
+	- [Other notes](#other-notes-1)
+- [How to report a bug?](#how-to-report-a-bug)
+	- [Security disclosures!](#security-disclosures)
+	- [How to file a bug report?](#how-to-file-a-bug-report)
+- [How to suggest a feature or enhancement?](#how-to-suggest-a-feature-or-enhancement)
+	- [Project direction](#project-direction)
+	- [Submitting a feature request](#submitting-a-feature-request)
+- [Code review process](#code-review-process)
+	- [What to expect?](#what-to-expect)
+	- [Commit access](#commit-access)
+- [The End](#the-end)
+
 # Introduction
 
 ### Welcome to The Contributing Guides!
